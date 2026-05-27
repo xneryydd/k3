@@ -1,7 +1,5 @@
 # Jupyter Notebook 基础实践 (Fujian Normal University)
 
-[cite_start]本项目基于**福建师范大学**《Jupyter Notebook基础实践》课程实验大纲开发 [cite: 3, 5][cite_start]。旨在通过一系列基础实验，帮助学习者熟悉 Jupyter Notebook 开发流程、掌握 Python 核心语法，并进阶完成数据分析与可视化任务 [cite: 11, 24, 25]。
-
 ## 📌 实验目的
 * [cite_start]进一步熟悉 Python 的核心语法 [cite: 10]。
 * [cite_start]熟练掌握 Notebook 开发的基本流程与常用快捷键 [cite: 11, 29]。
